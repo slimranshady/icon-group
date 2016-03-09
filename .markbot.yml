@@ -13,7 +13,3 @@ html:
 css:
   - path: "css/main.css"
     locked: true
-
-screenshots:
-  - path: "index.html"
-    sizes: [320, 400, 650, 980, 1400]
